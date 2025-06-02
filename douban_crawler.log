@@ -1,0 +1,52 @@
+2025-05-11 11:09:10,181 - INFO - 模拟人类行为，随机访问: https://movie.douban.com/cinema/nowplaying/
+2025-05-11 11:09:16,081 - INFO - 爬取页面: https://movie.douban.com/top250?start=0&filter=
+2025-05-11 11:09:18,920 - INFO - 第1页爬取完成，获取25部电影
+2025-05-11 11:09:25,728 - INFO - 爬取页面: https://movie.douban.com/top250?start=25&filter=
+2025-05-11 11:09:28,532 - INFO - 第2页爬取完成，获取25部电影
+2025-05-11 11:09:33,671 - INFO - 爬取页面: https://movie.douban.com/top250?start=50&filter=
+2025-05-11 11:09:35,907 - INFO - 第3页爬取完成，获取25部电影
+2025-05-11 11:09:42,971 - INFO - 爬取页面: https://movie.douban.com/top250?start=75&filter=
+2025-05-11 11:09:46,783 - INFO - 第4页爬取完成，获取25部电影
+2025-05-11 11:09:52,889 - INFO - 爬取页面: https://movie.douban.com/top250?start=100&filter=
+2025-05-11 11:09:55,878 - INFO - 第5页爬取完成，获取25部电影
+2025-05-11 11:10:01,780 - INFO - 爬取页面: https://movie.douban.com/top250?start=125&filter=
+2025-05-11 11:10:04,284 - INFO - 第6页爬取完成，获取25部电影
+2025-05-11 11:10:12,198 - INFO - 爬取页面: https://movie.douban.com/top250?start=150&filter=
+2025-05-11 11:10:14,653 - INFO - 第7页爬取完成，获取25部电影
+2025-05-11 11:10:20,098 - INFO - 爬取页面: https://movie.douban.com/top250?start=175&filter=
+2025-05-11 11:10:23,817 - INFO - 第8页爬取完成，获取25部电影
+2025-05-11 11:10:30,638 - INFO - 爬取页面: https://movie.douban.com/top250?start=200&filter=
+2025-05-11 11:10:32,914 - INFO - 第9页爬取完成，获取25部电影
+2025-05-11 11:10:39,192 - INFO - 爬取页面: https://movie.douban.com/top250?start=225&filter=
+2025-05-11 11:10:41,720 - INFO - 第10页爬取完成，获取25部电影
+2025-05-11 11:10:48,203 - INFO - 爬取完成，总共获取250部电影
+2025-05-11 11:10:48,900 - INFO - 数据已保存到 output/movies.xlsx
+2025-05-11 11:10:48,911 - INFO - 数据已备份到 output/movies.csv
+2025-05-11 11:10:51,653 - ERROR - 没有有效的年份和评分数据
+2025-05-11 11:10:52,054 - ERROR - 没有有效的简评数据
+2025-05-11 11:50:23,442 - INFO - 模拟人类行为，随机访问: https://movie.douban.com/cinema/nowplaying/
+2025-05-11 11:50:29,505 - INFO - 爬取页面: https://movie.douban.com/top250?start=0&filter=
+2025-05-11 11:50:33,668 - INFO - 第1页爬取完成，获取25部电影
+2025-05-11 11:50:41,389 - INFO - 爬取页面: https://movie.douban.com/top250?start=25&filter=
+2025-05-11 11:50:45,315 - INFO - 第2页爬取完成，获取25部电影
+2025-05-11 11:50:52,754 - INFO - 爬取页面: https://movie.douban.com/top250?start=50&filter=
+2025-05-11 11:50:55,149 - INFO - 第3页爬取完成，获取25部电影
+2025-05-11 11:51:00,223 - INFO - 爬取页面: https://movie.douban.com/top250?start=75&filter=
+2025-05-11 11:51:02,571 - INFO - 第4页爬取完成，获取25部电影
+2025-05-11 11:51:07,895 - INFO - 爬取页面: https://movie.douban.com/top250?start=100&filter=
+2025-05-11 11:51:10,370 - INFO - 第5页爬取完成，获取25部电影
+2025-05-11 11:51:17,448 - INFO - 爬取页面: https://movie.douban.com/top250?start=125&filter=
+2025-05-11 11:51:19,810 - INFO - 第6页爬取完成，获取25部电影
+2025-05-11 11:51:27,054 - INFO - 爬取页面: https://movie.douban.com/top250?start=150&filter=
+2025-05-11 11:51:30,596 - INFO - 第7页爬取完成，获取25部电影
+2025-05-11 11:51:36,506 - INFO - 爬取页面: https://movie.douban.com/top250?start=175&filter=
+2025-05-11 11:51:40,129 - INFO - 第8页爬取完成，获取25部电影
+2025-05-11 11:51:46,689 - INFO - 爬取页面: https://movie.douban.com/top250?start=200&filter=
+2025-05-11 11:51:50,264 - INFO - 第9页爬取完成，获取25部电影
+2025-05-11 11:51:56,747 - INFO - 爬取页面: https://movie.douban.com/top250?start=225&filter=
+2025-05-11 11:52:00,368 - INFO - 第10页爬取完成，获取25部电影
+2025-05-11 11:52:05,844 - INFO - 爬取完成，总共获取250部电影
+2025-05-11 11:52:06,600 - INFO - 数据已保存到 output/movies.xlsx
+2025-05-11 11:52:06,611 - INFO - 数据已备份到 output/movies.csv
+2025-05-11 11:52:09,426 - ERROR - 没有有效的年份和评分数据
+2025-05-11 11:52:09,841 - ERROR - 没有有效的简评数据
